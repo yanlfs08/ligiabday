@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         } else {
             tituloElemnet.innerHTML = '<h1>Parabéns gatinha!</h1>';
-            puzzleContainer.innerHTML = '<p>Você se provou como mono Diana hehehe. Foi apenas uma brincadeira, o presente é simples, mas pensando e dado a você de coração! Espero que você tenha aproveitado e curtido muito o seu dia! Feliz aniversário sua linda! Agora vem aqui e deixa eu te dar um abraço!</p>';
+            puzzleContainer.innerHTML = '<p>Você se provou como mono Diana hehehe. Foi apenas uma brincadeira, o presente é simples, mas pensado e dado a você de coração! Espero que você tenha aproveitado e curtido muito o seu dia! Feliz aniversário, sua linda! Agora vem aqui e deixa eu te dar um abraço!</p>';
             
         }
     }   
