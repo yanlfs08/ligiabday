@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const puzzles = [
         {
-            question: "Qual é um personagem do tipo de Diana em League of Legends?",
+            question: "Qual é o tipo do personagem de Diana em League of Legends?",
             options: ["Suporte", "Assassino", "Tanque", "Atirador"],
             answer: "Assassino"
         },
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         } else {
             tituloElemnet.innerHTML = '<h1>Parabéns gatinha!</h1>';
-            puzzleContainer.innerHTML = '<p>Você se provou como mono Diana hehehe. Espero que tenha gostado da brincadeira, o presente é simples, mas pensando e dado a você de coração! Espero que você tenha aproveitado e curtido muito o seu dia! Feliz aniversário sua linda! Agora vem ca e deixa eu te dar um abraco!</p>';
+            puzzleContainer.innerHTML = '<p>Você se provou como mono Diana hehehe. Espero que tenha gostado da brincadeira, o presente é simples, mas pensando e dado a você de coração! Espero que você tenha aproveitado e curtido muito o seu dia! Feliz aniversário sua linda! Agora vem ca e deixa eu te dar um abraço!</p>';
         }
     }   
 
